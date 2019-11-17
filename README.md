@@ -17,3 +17,4 @@ This repository is for stable Chromium builds for Windows. That's it.
 * Thin LTO enabled
 * OpenH264 enabled
 * WebRTC H.264 disabled
+
